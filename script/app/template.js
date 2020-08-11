@@ -1,5 +1,5 @@
 const path = (name) => {
-    return  "http://" + window.location.host + "/InternshipDashboard/template/" + name + ".html";
+    return  "http://" + window.location.host + "/Internship-Program-2020/template/" + name + ".html";
 };
 
 export const student = function (dataSet, elemnt, name, imageUrl) {
