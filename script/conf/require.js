@@ -1,6 +1,6 @@
 var prefix = "script/";
 var subfix = ".js";
-var classPath = "/template/";
+var classPath = "/Internship-Program-2020/template/";
 
 function include(file) {
     var script = document.createElement('script');
