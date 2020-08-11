@@ -1,5 +1,5 @@
 var sourceUrl = "https://slack.com/api/users.list";
-var token = 'xoxp-1261160819365-1262533222802-1297992002276-5571a875746d469e9346eb7694d12b83';
+var token = 'xoxp-1261160819365-1262533222802-1318581602816-1b1f9789a3c4ddeba8ae7ada864a163a';
 var request = sourceUrl + "?token=" + token;
 
 var getData = function (element) {
